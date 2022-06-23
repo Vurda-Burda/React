@@ -1,0 +1,64 @@
+$header-width: 100%;
+$header-height: 107px;
+$name-size: 30px;
+
+
+.header {
+   width: $header-width;
+   height: $header-height;
+   background-color: #e3654f;
+   display: flex;
+   padding: 30px 40px 0 40px;
+   margin: 0 auto;
+   justify-content: space-around;
+   text-decoration: none;
+}
+
+.linkTrainingAddition {
+      width: 150px;
+      height: 50px;
+      font-size: 25px;
+      border: 5px solid black;
+      color: white;
+      text-align: center;
+      box-shadow: 5px 5px black;
+      background-color: #75b539;
+}
+
+.linkTrainingSubtraction {
+   width: 150px;
+   height: 50px;
+   font-size: 25px;
+   border: 5px solid black;
+   color: white;
+   text-align: center;
+   box-shadow: 5px 5px black;
+   background-color: #3da4c9;
+}
+
+.linkTrainingMultiplication {
+   width: 150px;
+   height: 50px;
+   font-size: 25px;
+   border: 5px solid black;
+   color: white;
+   text-align: center;
+   box-shadow: 5px 5px black;
+   background-color: #b23dc9;
+}
+
+.linkTrainingDivision {
+   width: 150px;
+   height: 50px;
+   font-size: 25px;
+   border: 5px solid black;
+   color: white;
+   text-align: center;
+   box-shadow: 5px 5px black;
+   background-color: #1ad2cc;
+}
+
+
+
+
+

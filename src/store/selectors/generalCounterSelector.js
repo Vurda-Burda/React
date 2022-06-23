@@ -1,0 +1,1 @@
+export const selectorGeneralCounter = (state) => state.generalCountReducer;

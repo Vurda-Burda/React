@@ -1,0 +1,1 @@
+export const selectorButtonName = (state) => state.buttonNameReducer;
